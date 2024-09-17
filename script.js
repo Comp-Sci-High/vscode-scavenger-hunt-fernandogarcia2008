@@ -1,4 +1,4 @@
-console.log("I should go at the end")
+console.log("I shouldthe end")
 
 // Compliments about "Your Name"
 let compliments = [
@@ -8,7 +8,6 @@ let compliments = [
     "Everyone looks up to Your Name's creativity!",
     "Your Name always brings positive energy to the group!"
 ];
-
 // Log compliments one by one
 console.log("Let's talk about how awesome 'Your Name' is:");
 for (let i = 0; i < compliments.length; i++) {
